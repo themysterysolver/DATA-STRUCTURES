@@ -19,9 +19,15 @@ void ins(int arr[],int n){
     }
 }
 int main(){
-    int arr[]={3,1,2,12,11,8,7,9,6,4,10};
-    int size=sizeof(arr)/sizeof(arr[0]);
-    printf("\nthe array before sorting is:");
+    int n,i;
+    printf("Enter the ssize of the array:");
+    scanf("%d",&n);
+    int arr[n];
+    printf("enter the array:");
+    for(i=0;i<n;i++)
+        scanf("%d",&arr[i]); 
+    int size=n;
+    printf("the array before sorting is:");
     display(arr,size);
     ins(arr,size);
     printf("\nthe array after sorting is:");
