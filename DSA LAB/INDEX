@@ -1,0 +1,66 @@
+# Data Structures and Algorithms Repository
+
+Welcome to the repository for various data structures and algorithms implemented across multiple classes. Below is an overview of the contents of each folder, organized by class.
+
+## Folder Structure
+
+### Class 1: Basic Operations
+This folder contains fundamental operations for arrays:
+1. Insertion
+2. Deletion
+3. Linear Search
+4. Bubble Sort
+
+### Class 2: Array Manipulation and Searching
+This folder focuses on array-based operations and uniqueness checks:
+1. Sorted Merge
+2. Is Unique
+3. Max and Min Element Finder
+
+### Class 3: Linked Lists
+This folder covers the implementation of singly and doubly linked lists:
+1. Linked List Operations
+
+### Class 4: Stack and Queue Using Arrays
+This folder contains implementations of stack and queue data structures using arrays:
+1. Stack using Array
+2. Queue using Array
+
+### Class 5: Stack and Queue Using Linked Lists
+This folder includes the implementation of stack and queue data structures using linked lists:
+1. Stack using Linked List
+2. Queue using Linked List
+
+### Class 6: String Manipulation and Expression Evaluation
+This folder covers programs that involve string-based algorithms and expression evaluation:
+1. Palindrome Checker
+2. Bracket Checking
+3. Infix to Postfix Conversion
+
+### Class 7: Binary Trees
+This folder contains programs related to binary trees:
+1. Binary Tree Operations
+2. Binary Search Tree (BST) Operations
+3. Tree Traversals (Inorder, Preorder, Postorder)
+
+### Class 8: Graph Traversals
+This folder focuses on different graph traversal algorithms:
+1. Breadth-First Search (BFS)
+2. Depth-First Search (DFS)
+
+### Class 9: Sorting Algorithms
+This folder covers various sorting algorithms:
+1. Merge Sort
+2. Bubble Sort
+3. Quick Sort
+
+### Class 10: Minimum Spanning Tree Algorithms
+This folder covers Prim's algorithm for finding minimum spanning trees:
+1. Prim's Algorithm
+
+### Class 11: Dynamic Programming and Shortest Path Algorithms
+This folder includes dynamic programming algorithms and shortest path problems:
+1. Longest Common Subsequence (LCS)
+2. All-Pairs Shortest Path (Floyd-Warshall Algorithm)
+
+---
