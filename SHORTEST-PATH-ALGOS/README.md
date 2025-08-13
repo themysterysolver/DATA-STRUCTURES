@@ -1,6 +1,3 @@
-Here’s a brief summary of the three:
-
----
 
 **1. Dijkstra’s Algorithm**
 
@@ -31,11 +28,6 @@ Here’s a brief summary of the three:
 * **Time Complexity**: **O(V³)**.
 
 ---
-
-
-
-Got it — I’ll give you **simple, readable Python code** for Dijkstra’s, Bellman–Ford, and Floyd–Warshall, all using the **same example graph**, then explain each.
-
 ---
 
 ## **Example Graph**
@@ -181,8 +173,3 @@ for row in result:
 * **Floyd–Warshall** → Best for all-pairs shortest paths with small graphs.
 
 ---
-
-If you want, I can now **visualize the example graph** so you can follow the steps of all three algorithms more intuitively. That will make it crystal clear.
-
-
-If you want, I can make you a **side-by-side comparison table** so the differences are crystal clear.
