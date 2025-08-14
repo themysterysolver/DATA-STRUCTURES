@@ -1,0 +1,7 @@
+### DIJKSTRAS
+
+---
+
+- Greedy algorithm
+
+---
